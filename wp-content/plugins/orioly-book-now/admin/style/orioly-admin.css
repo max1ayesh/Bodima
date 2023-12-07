@@ -1,0 +1,24 @@
+#orioly-select {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.orioly-book-now-api-input {
+    height: 150px;
+    resize: none;
+    width: 400px;
+}
+
+.orioly-settings-container {
+
+}
+
+.orioly-settings-description ol {
+    margin-bottom: 0px;
+    margin-top: 0px;
+
+}
+
+.orioly-settings-description {
+    padding-bottom: 0 !important;
+}
